@@ -1,0 +1,6 @@
+@SathishShop_HostAddress = http://localhost:5004
+
+GET {{SathishShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
